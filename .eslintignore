@@ -1,0 +1,9 @@
+**/node_modules/*
+**/build/*
+**/dist/*
+
+prettier.config.cjs
+tailwind.config.cjs
+postcss.config.cjs
+vite.config.ts
+vitest.config.ts
