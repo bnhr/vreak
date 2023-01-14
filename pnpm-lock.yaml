@@ -16,7 +16,7 @@ specifiers:
   eslint-config-airbnb-typescript: 17.0.0
   eslint-plugin-import: 2.26.0
   eslint-plugin-jsx-a11y: 6.6.1
-  eslint-plugin-react: 7.31.11
+  eslint-plugin-react: 7.32.0
   eslint-plugin-react-hooks: 4.6.0
   happy-dom: ^8.1.1
   husky: ^8.0.0
@@ -51,11 +51,11 @@ devDependencies:
   '@vitejs/plugin-react': 3.0.1_vite@4.0.4
   autoprefixer: 10.4.13_postcss@8.4.21
   eslint: 8.31.0
-  eslint-config-airbnb: 19.0.4_kdrd7zxcgo7evu26hvr6zfy33i
+  eslint-config-airbnb: 19.0.4_qni2lcd4l6mihdmshti5orbfqq
   eslint-config-airbnb-typescript: 17.0.0_pcpxwba5okalsrgocspbhb7cfe
   eslint-plugin-import: 2.26.0_m2kn7xiag5lymyarkgri27ztxm
   eslint-plugin-jsx-a11y: 6.6.1_eslint@8.31.0
-  eslint-plugin-react: 7.31.11_eslint@8.31.0
+  eslint-plugin-react: 7.32.0_eslint@8.31.0
   eslint-plugin-react-hooks: 4.6.0_eslint@8.31.0
   happy-dom: 8.1.1
   husky: 8.0.2
@@ -1859,7 +1859,7 @@ packages:
       eslint-plugin-import: 2.26.0_m2kn7xiag5lymyarkgri27ztxm
     dev: true
 
-  /eslint-config-airbnb/19.0.4_kdrd7zxcgo7evu26hvr6zfy33i:
+  /eslint-config-airbnb/19.0.4_qni2lcd4l6mihdmshti5orbfqq:
     resolution: {integrity: sha512-T75QYQVQX57jiNgpF9r1KegMICE94VYwoFQyMGhrvc+lB8YF2E/M/PYDaQe1AJcWaEgqLE+ErXV1Og/+6Vyzew==}
     engines: {node: ^10.12.0 || ^12.22.0 || ^14.17.0 || >=16.0.0}
     peerDependencies:
@@ -1873,7 +1873,7 @@ packages:
       eslint-config-airbnb-base: 15.0.0_ol7jqilc3wemtdbq3nzhywgxq4
       eslint-plugin-import: 2.26.0_m2kn7xiag5lymyarkgri27ztxm
       eslint-plugin-jsx-a11y: 6.6.1_eslint@8.31.0
-      eslint-plugin-react: 7.31.11_eslint@8.31.0
+      eslint-plugin-react: 7.32.0_eslint@8.31.0
       eslint-plugin-react-hooks: 4.6.0_eslint@8.31.0
       object.assign: 4.1.3
       object.entries: 1.1.5
@@ -1976,8 +1976,8 @@ packages:
       eslint: 8.31.0
     dev: true
 
-  /eslint-plugin-react/7.31.11_eslint@8.31.0:
-    resolution: {integrity: sha512-TTvq5JsT5v56wPa9OYHzsrOlHzKZKjV+aLgS+55NJP/cuzdiQPC7PfYoUjMoxlffKtvijpk7vA/jmuqRb9nohw==}
+  /eslint-plugin-react/7.32.0_eslint@8.31.0:
+    resolution: {integrity: sha512-vSBi1+SrPiLZCGvxpiZIa28fMEUaMjXtCplrvxcIxGzmFiYdsXQDwInEjuv5/i/2CTTxbkS87tE8lsQ0Qxinbw==}
     engines: {node: '>=4'}
     peerDependencies:
       eslint: ^3 || ^4 || ^5 || ^6 || ^7 || ^8
@@ -2769,7 +2769,7 @@ packages:
     engines: {node: '>=4.0'}
     dependencies:
       array-includes: 3.1.6
-      object.assign: 4.1.3
+      object.assign: 4.1.4
     dev: true
 
   /kind-of/6.0.3:
