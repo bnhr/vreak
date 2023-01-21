@@ -1,4 +1,4 @@
-import Layout from '@/components/Layout'
+import Layout from '~/components/Layout'
 
 const name = import.meta.env.VITE_APP_NAME
 const number = import.meta.env.VITE_APP_NUMBER

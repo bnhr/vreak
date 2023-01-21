@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { ChidProps } from '@/types/default'
+import { ChidProps } from '~/types/default'
 
 function Layout({ children }: ChidProps) {
 	return (

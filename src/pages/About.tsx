@@ -1,5 +1,5 @@
-import Layout from '@/components/Layout'
-import useCountStore from '@/store/count'
+import Layout from '~/components/Layout'
+import useCountStore from '~/store/count'
 
 function About() {
 	const count = useCountStore((state) => state.count)
