@@ -29,7 +29,7 @@ specifiers:
   react-router-dom: ^6.5.0
   tailwindcss: 3.2.7
   typescript: 4.9.5
-  vite: 4.1.2
+  vite: 4.1.4
   vitest: ^0.28.0
   zustand: ^4.1.5
 
@@ -48,7 +48,7 @@ devDependencies:
   '@types/react-dom': 18.0.11
   '@typescript-eslint/eslint-plugin': 5.53.0_ny4s7qc6yg74faf3d6xty2ofzy
   '@typescript-eslint/parser': 5.53.0_7kw3g6rralp5ps6mg3uyzz6azm
-  '@vitejs/plugin-react': 3.1.0_vite@4.1.2
+  '@vitejs/plugin-react': 3.1.0_vite@4.1.4
   autoprefixer: 10.4.13_postcss@8.4.21
   eslint: 8.34.0
   eslint-config-airbnb: 19.0.4_hbw3smywoiafix46yjc35xsaqq
@@ -65,7 +65,7 @@ devDependencies:
   prettier-plugin-tailwindcss: 0.2.1_prettier@2.8.4
   tailwindcss: 3.2.7_postcss@8.4.21
   typescript: 4.9.5
-  vite: 4.1.2_@types+node@18.11.17
+  vite: 4.1.4_@types+node@18.11.17
   vitest: 0.28.3_happy-dom@8.1.1
 
 packages:
@@ -995,7 +995,7 @@ packages:
       eslint-visitor-keys: 3.3.0
     dev: true
 
-  /@vitejs/plugin-react/3.1.0_vite@4.1.2:
+  /@vitejs/plugin-react/3.1.0_vite@4.1.4:
     resolution: {integrity: sha512-AfgcRL8ZBhAlc3BFdigClmTUMISmmzHn7sB2h9U1odvc5U/MjWXsAaz18b/WoppUTDBzxOJwo2VdClfUcItu9g==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
@@ -1006,7 +1006,7 @@ packages:
       '@babel/plugin-transform-react-jsx-source': 7.19.6_@babel+core@7.20.12
       magic-string: 0.27.0
       react-refresh: 0.14.0
-      vite: 4.1.2_@types+node@18.11.17
+      vite: 4.1.4_@types+node@18.11.17
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -4385,7 +4385,7 @@ packages:
       picocolors: 1.0.0
       source-map: 0.6.1
       source-map-support: 0.5.21
-      vite: 4.1.2_@types+node@18.11.17
+      vite: 4.1.4_@types+node@18.11.17
     transitivePeerDependencies:
       - '@types/node'
       - less
@@ -4396,8 +4396,8 @@ packages:
       - terser
     dev: true
 
-  /vite/4.1.2_@types+node@18.11.17:
-    resolution: {integrity: sha512-MWDb9Rfy3DI8omDQySbMK93nQqStwbsQWejXRY2EBzEWKmLAXWb1mkI9Yw2IJrc+oCvPCI1Os5xSSIBYY6DEAw==}
+  /vite/4.1.4_@types+node@18.11.17:
+    resolution: {integrity: sha512-3knk/HsbSTKEin43zHu7jTwYWv81f8kgAL99G5NWBcA1LKvtvcVAC4JjBH1arBunO9kQka+1oGbrMKOjk4ZrBg==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
@@ -4474,7 +4474,7 @@ packages:
       tinybench: 2.3.1
       tinypool: 0.3.1
       tinyspy: 1.0.2
-      vite: 4.1.2_@types+node@18.11.17
+      vite: 4.1.4_@types+node@18.11.17
       vite-node: 0.28.3_@types+node@18.11.17
       why-is-node-running: 2.2.2
     transitivePeerDependencies:
